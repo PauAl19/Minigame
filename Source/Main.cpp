@@ -26,8 +26,8 @@
 // -------------------------------------------------------------------------
 // Defines, Types and Globals
 // -------------------------------------------------------------------------
-#define SCREEN_WIDTH		1280
-#define SCREEN_HEIGHT		 720
+#define SCREEN_WIDTH		728
+#define SCREEN_HEIGHT		 410
 
 #define MAX_KEYBOARD_KEYS	 256
 #define MAX_MOUSE_BUTTONS	   5
